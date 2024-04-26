@@ -31,12 +31,12 @@ In order to run this project, you will need to have the following software insta
 ### 🚀&nbsp; Installation
 1. Clone the repository to your local machine:
 ```
-https://github.com/juanjaho/real-time-object-detection-web-app.git
+https://github.com/Suryachoudhuri003/VisionVerse.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd real-time-object-detection-web-app
+cd VisionVerse
 ```
 
 3. Install the necessary dependencies by running:
