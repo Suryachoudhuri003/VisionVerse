@@ -1,4 +1,4 @@
-<h1 align="center">Real Time Object Detection Web App with Audio Assistance - VisionVerse </h1>
+<h1 align="center">Real Time Object Detection Web App with Audio Assistance : **VisionVerse** </h1>
 The project **VisionVerse** is a web-based application that utilizes real-time object detection to identify and label objects within an image or video stream and give out the recognised object as audio output. It is built using Next.js, ONNXRuntime, and YOLOv7 model.
 
 ## :hourglass: Project Demo at [RTOD.vercel.app](https://real-time-object-detection-web-app-master.vercel.app/)
